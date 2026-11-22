@@ -1,0 +1,34 @@
+# Unreal Engine generated / cache folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.log
+
+# Third-party Epic / Fab large asset packs (not redistributed here; see README.md)
+Content/ParagonGrux/
+Content/ParagonKwang/
+Content/Ft_Gothic_castle/
+Content/StarterContent/
+Content/Characters/
+Content/Fab/
+Content/FreeGameSoundsVol1/
+
+# Local AI tool metadata & developer scratch
+Content/.claude/
+Content/Developers/
+Content/Collections/
+
+# OS
+.DS_Store
+Thumbs.db
